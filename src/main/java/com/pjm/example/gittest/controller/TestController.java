@@ -8,5 +8,6 @@ public class TestController {
     @GetMapping("index")
     public void test(){
         System.out.println("hello");
+        System.out.println("hello2");
     }
 }
